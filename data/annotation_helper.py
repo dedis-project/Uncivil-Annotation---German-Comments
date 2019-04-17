@@ -1,5 +1,5 @@
-#This module is named annotation_helpers
-#Ankekat1000
+# Creates text files from a data frame, where each file contains the message column value (here a comment message).
+# Each file is named after the value of the column Comment_ID.
 #March 2019
 
 def Textfiles_from_df(df_ID_message):
